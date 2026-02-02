@@ -1,7 +1,4 @@
-Perfect — below is a **professional, bank-grade `README.md`** you can copy–paste directly.
-It is written exactly in the style **Nordea / EU banks / risk teams expect**.
 
----
 
 # Counterparty Credit Risk Modeling under the CRR Framework
 
